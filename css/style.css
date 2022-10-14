@@ -1,0 +1,73 @@
+body {
+    border: 0;
+    background: #fff;
+}
+
+div.tudo {
+    max-width: 800px;
+    margin: auto;
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+div.topo {
+    height: 283px;
+    background-image: url('../img/tableau-day_autoglass2.png');
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid rgba(0, 0, 0, 0.088);
+    border-radius: 20px 20px 0px 0px;
+}
+
+div.conteudo {
+    margin: 0;
+    border: 1px solid rgba(0, 0, 0, 0.088);
+    padding: 5px 20px 5px 20px;
+    background-color: rgba(132, 132, 132, 0.085);
+}
+
+.conteudo h1 {
+    border: 0;
+    font-size: 1.2em;
+
+}
+
+.conteudo h2 {
+    border: 0;
+    font-size: 1em;
+}
+
+.conteudo p {
+    border: 0;
+    font-size: 0.9em;
+}
+
+.conteudo ul li {
+    border: 0;
+    font-size: 0.8em;
+}
+
+.dica {
+    display: flex;
+}
+
+.dica img {
+    max-width: 250px;
+    padding-right: 50px;
+    margin-bottom: 30px;
+}
+
+footer {
+    text-align: center;
+    background-color: #183782;
+    border: 2px;
+    color: rgba(233, 232, 232, 0.37);
+    font-size: 0.8em;
+    border-radius: 0px 0px 20px 20px;
+    padding: 10px;
+}
+
+.principal {
+    text-align: center;
+    
+}
